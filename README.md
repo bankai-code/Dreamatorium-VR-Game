@@ -13,6 +13,7 @@ Dreamatorium is an immersive VR experience designed for Google Cardboard on Andr
 - **3D Humanoid Avatar**: Customizable avatars for each player, adding to the immersive experience.
 - **Multiplayer & Voice Chat**: Real-time multiplayer interactions and voice communication using Photon.
 - **Basketball Game**: Pick up and shoot basketballs with physics-based scoring.
+- **In Beta: Google Cloud Text to Speech and Gemini AI Help Console
 
 ## Technical Overview
 
@@ -41,3 +42,6 @@ Scenes and object states are synchronized across players to ensure a cohesive mu
 1. Clone the repository:  
    ```bash
    git clone https://github.com/bankai-code/Dreamatorium-VR-Game.git
+2. Open the project in Unity and load the main scene at Assets/Scenes/Project.unity.
+3. Build and deploy to an Android device (Google Cardboard VR).
+4. Launch the app and use a Bluetooth joystick to navigate and interact.
